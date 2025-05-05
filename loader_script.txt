@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JDETeck/JDeX/refs/heads/main/source/jdex_rel1.lua"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JDETeck/JDeX/main/source/jdex_rel1.lua"))()
